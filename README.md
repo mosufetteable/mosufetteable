@@ -2,6 +2,7 @@
 
 <h3 align="left">I'm a high school student who's programming as a hobby.</h3>
 <h3 align="left">I'm a Chorap(Newbie) programmer who's from Jeonju, Republic of Korea.</h3>
+<p align="left">
 </p>
 
 <h3 align="left">[Social Media]:</h3>
