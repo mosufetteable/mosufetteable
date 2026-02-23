@@ -1,6 +1,7 @@
-<h1 align="center">mosufetteable "Feel so good!" </h1>
-<h3 align="center">I'm a high school student who's programming as a hobby.</h3>
-<h3 align="center">I'm a Chorap(Newbie) programmer who's from Jeonju, Republic of Korea.</h3>
+<h1 align="left"> "Feel so good!" </h1>
+
+<h3 align="left">I'm a high school student who's programming as a hobby.</h3>
+<h3 align="left">I'm a Chorap(Newbie) programmer who's from Jeonju, Republic of Korea.</h3>
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
